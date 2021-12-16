@@ -2,7 +2,7 @@
 
 https://tecky20211215174704.azurewebsites.net/
 No production in use. This is a test app for promotion purpose
-Start-up business site. Perfect for Organisation/Entrepeneur to store their products,  owner(buyer) will be able to modify their own products. 
+Start-up business site. Perfect for Organisation/Entrepeneur to store their products,  owner(seller) will be able to modify their own products. 
 Everything will be layered out in the database and all you have to do is fill those tables with products. 
 If a customer want products they must submit a Inquiry that will be sent to Admin populated with the product id, name, email & phone number. 
 Perfect for a start-up business, because you can manage it all by yourself and as business grow you can add more admin roles to employees.
