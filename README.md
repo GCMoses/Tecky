@@ -11,9 +11,12 @@ I left my email here as a reference in the Web Constants(WC.cs) so if you do dec
 Use mailjet for messaging API v1.22 because higher versions of the  mailjetAPI nuGet package give weird uresolvable errors
 
 Enjoy a fully populated application that even a kid can manage.
+
+
 With time Godwilling if the business grow you will want to upgrade to upgrade to my larger scale version of this application.
 Larger scale version will include orders, transactions using credit card, shipping info and data table where admin can view everything inquiry, place order and send you a purchase receipt
-
+larger scale app site https://techsupz.azurewebsites.net/
+I can't post the repository, because it hold sensetive info.
 
 Created by Junior Software Engineer
 Gilmore Moses
