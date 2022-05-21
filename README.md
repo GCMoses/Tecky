@@ -1,6 +1,6 @@
 # Tecky
 
-https://tecky20211215174704.azurewebsites.net/
+
 No production in use. This is a test app for promotion purpose
 Start-up business site. Perfect for Organisation/Entrepeneur to store their products,  owner(seller) will be able to modify their own products. 
 Everything will be layered out in the database and all you have to do is fill those tables with products. 
@@ -15,11 +15,10 @@ Enjoy a fully populated application that even a kid can manage.
 
 With time Godwilling if the business grow you will want to upgrade to upgrade to my larger scale version of this application.
 Larger scale version will include orders, transactions using credit card, shipping info and data table where admin can view everything inquiry, place order and send you a purchase receipt
-larger scale app site https://techsupz.azurewebsites.net/
+larger scale app site 
 I can't post the repository, because it hold sensetive info.
 
-Created by Junior Software Engineer
-Gilmore Moses
+Created by Gilmore Moses
 
 
 
